@@ -9,7 +9,7 @@ Repositores para armazenar resumos sobre git e Github
 |------|---------|--------|
 
 ```
-print("Hello World")
+print("Hello World"))
 ```
 
 # *Link | Codigos*
